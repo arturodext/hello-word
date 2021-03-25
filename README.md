@@ -1,5 +1,5 @@
-# hello-word
-The hello-word begins
+# hello-world
+The hello-world begins.
 Arturo here, or Dexter, what you wish like.
 I'm a developer of indie game. Actually I'm working on two:
 The first one it's Zelda Clone.
